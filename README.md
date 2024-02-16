@@ -2,6 +2,8 @@
 
 - Create React App
 - Configured TailwindCSS 
+- Header
+- Login Form
 
 # Features
 - Login/Sign Up
@@ -18,3 +20,5 @@
 - NetflixGPT
   - Search Bar
   - Movie Suggestions
+
+// rafce - react arrow function Export component
